@@ -2,8 +2,7 @@
 <h2 align="center">Hi, Yu here.</h2>
 
 <p align="center">
-<a title="blog" target="_blank" href="https://idealistyu.github.io"><img src="https://img.shields.io/badge/Blog-Yu's%20Site-blue"></a>
-  <img src="https://komarev.com/ghpvc/?username=idealistyu&label=Profile%20views&color=0e75b6&style=flat" alt="idealistyu" />
+<a title="blog" target="_blank" href="https://blog.loveyou.moe"><img src="https://img.shields.io/badge/Blog-Yu's%20Site-blue"></a>
 </p>
 
 [![Yu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IdealistYu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
