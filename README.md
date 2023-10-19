@@ -5,11 +5,17 @@
 <a title="blog" target="_blank" href="https://blog.loveyou.moe"><img src="https://img.shields.io/badge/Blog-Yu's%20Site-blue"></a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IdealistYu&show_icons=true" alt="Yu's GitHub stats">
-  </a>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IdealistYu&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IdealistYu&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IdealistYu&show_icons=true" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IdealistYu/IdealistYu/output/github-contribution-grid-snake-dark.svg" />
